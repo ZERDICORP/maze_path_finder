@@ -5,7 +5,7 @@
 ## Launch guide
 
 ```console
-$ git clone https://github.com/ZERDICORP/maze_path_finder".git
+$ git clone https://github.com/ZERDICORP/maze_path_finder.git
 $ cd maze_path_finder
 $ ./run
 ```
