@@ -5,8 +5,8 @@
 ## Launch guide
 
 ```console
-$ git clone https://github.com/ZERDICORP/ants_simulation.git
-$ cd ants_simulation
+$ git clone https://github.com/ZERDICORP/maze_path_finder".git
+$ cd maze_path_finder
 $ ./run
 ```
 
